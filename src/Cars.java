@@ -8,7 +8,4 @@ public class Cars extends Vehicle{
         Cars car1 = new Cars("Camry","$400",4);
         car1.drive();
     }
-
-
-
 }
